@@ -10,22 +10,18 @@ Explore our comparison of these **10 AI photo editors in 2026** to discover thei
 
 ## Table of Contents
 
-- [What Is an AI Photo Editor?](#what-is-an-ai-photo-editor)
-- [Best AI Photo Editors at a Glance](#best-ai-photo-editors-at-a-glance)
-- [1. Adobe Photoshop](#1-adobe-photoshop)
-- [2. Adobe Lightroom](#2-adobe-lightroom)
-- [3. Canva](#3-canva)
-- [4. Pixlr](#4-pixlr)
-- [5. Topaz Photo AI](#5-topaz-photo-ai)
-- [6. Luminar Neo](#6-luminar-neo)
-- [7. Photoroom](#7-photoroom)
-- [8. Pixella](#8-pixella)
-- [9. Fotor](#9-fotor)
-- [10. Remini](#10-remini)
-- [How to Choose the Best AI Photo Editor](#how-to-choose-the-best-ai-photo-editor)
-- [Free vs Paid AI Photo Editors](#free-vs-paid-ai-photo-editors)
-- [Final Verdict](#final-verdict)
-- [Frequently Asked Questions](#frequently-asked-questions)
+| No | Section | No | Section |
+|---|---|---|---|
+| 1 | [What Is an AI Photo Editor?](#what-is-an-ai-photo-editor) | 9 | [Fotor](#9-fotor) |
+| 2 | [Best AI Photo Editors at a Glance](#best-ai-photo-editors-at-a-glance) | 10 | [Remini](#10-remini) |
+| 3 | [Adobe Photoshop](#1-adobe-photoshop) | 11 | [How to Choose the Best AI Photo Editor](#how-to-choose-the-best-ai-photo-editor) |
+| 4 | [Adobe Lightroom](#2-adobe-lightroom) | 12 | [Free vs Paid AI Photo Editors](#free-vs-paid-ai-photo-editors) |
+| 5 | [Canva](#3-canva) | 13 | [Final Verdict](#final-verdict) |
+| 6 | [Pixlr](#4-pixlr) | 14 | [Frequently Asked Questions](#frequently-asked-questions) |
+| 7 | [Topaz Photo AI](#5-topaz-photo-ai) |  |  |
+| 8 | [Luminar Neo](#6-luminar-neo) |  |  |
+| 9 | [Photoroom](#7-photoroom) |  |  |
+| 10 | [Pixella](#8-pixella) |  |  |
 
 ## What Is an AI Photo Editor?
 
